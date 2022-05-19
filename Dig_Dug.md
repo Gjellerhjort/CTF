@@ -9,4 +9,4 @@ the name of the CTF is Dig Dug and i know a tool called Dig so i think we have t
 
 and i got the flag easy!
 
-![7ae97e23fb69f28fb46e25bbb46791a7.png](:/429ddce8ff21469d9821b4cba7c437ab)
+
